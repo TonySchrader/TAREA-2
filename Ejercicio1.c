@@ -1,19 +1,25 @@
 /*Schrader Rodríguez Luis Antonio
-Tarea 2 Ejercicio 1*/
+Tarea 2 Ejercicio 2*/
 
 #include <stdio.h>
 
-int main()
+int main() 
 {
-    float base = 0, altura = 0, area = 0;
+    int num1, num2, suma, resta, mult; 
 
-    printf("Introduzca la base del triángulo: ");
-    scanf("%f", &base);
-    
-    printf("Introduzca la altura del triángulo: ");
-    scanf("%f", &altura);
+    printf("Ingrese el primer número: ");
+    scanf("%d", &num1);
 
-    area = (base * altura) / 2; 
+    printf("Ingrese el segundo número: ");
+    scanf("%d", &num2);
 
-    printf("\nEl área del triángulo es: %2f\n", area);
+    suma = num1 + num2;
+    resta = num1 - num2;
+    mult = num1 * num2;
+
+    printf("\nLa suma es: %d\n", suma);
+    printf("La resta es: %d\n", resta);
+    printf("La multiplicación es: %d\n", mult);
+
+    return 0;
 }
