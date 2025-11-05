@@ -1,5 +1,5 @@
 /*Schrader Rodríguez Luis Antonio
-Tarea 2 Ejercicio 2*/
+Tarea 2 Ejercicio 1*/
 
 #include <stdio.h>
 
