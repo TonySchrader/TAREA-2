@@ -20,6 +20,6 @@ int main()
     printf("\nLa suma es: %d\n", suma);
     printf("La resta es: %d\n", resta);
     printf("La multiplicación es: %d\n", mult);
-
+    
     return 0;
 }
