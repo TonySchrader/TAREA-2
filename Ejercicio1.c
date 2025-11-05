@@ -3,7 +3,7 @@ Tarea 2 Ejercicio 1*/
 
 #include <stdio.h>
 
-int main() 
+void main() 
 {
     int num1, num2, suma, resta, mult; 
 
@@ -21,5 +21,4 @@ int main()
     printf("La resta es: %d\n", resta);
     printf("La multiplicación es: %d\n", mult);
     
-    return 0;
 }
