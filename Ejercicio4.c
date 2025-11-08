@@ -8,7 +8,7 @@ void main()
     int MontoInvertido, TasaInteres, MontoFinal;
 
     printf("Ingresa la cantidad invertida: ");
-    scanf("%d", &MontoInvertido);
+    scanf("%d",&MontoInvertido);
 
     printf("Ingresa el porcentaje de la tasa de interés mensual: ");
     scanf("%d", &TasaInteres);
