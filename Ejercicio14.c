@@ -4,10 +4,7 @@ Tarea 2 Ejercicio 14*/
 #include <stdio.h>
 void main()
 {
-  int arr[10]; 
-  num; 
-  cont = 0; 
-  i;
+  int arr[10], num, cont = 0, i;
   
   i = 0;
 
