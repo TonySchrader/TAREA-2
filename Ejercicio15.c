@@ -5,11 +5,7 @@ Tarea 2 Ejercicio 15*/
 
 void main()
 {
-    int arr[10];
-    int i;
-    int posit = 0;
-    int negs = 0;
-    int nulos = 0;
+    int arr[10], int i, posit = 0, negs = 0, nulos = 0;
     
     i=0;
 
