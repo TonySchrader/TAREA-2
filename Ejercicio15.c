@@ -31,7 +31,7 @@ void main()
             nulos++;
         }
     }
-    printf("\nResultados:\n");
+    printf("\nConteo de numeros: \n");
     printf("Números positivos: %d\n", posit);
     printf("Números negativos: %d\n", negs);
     printf("Números nulos: %d\n", nulos);
