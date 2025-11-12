@@ -5,9 +5,7 @@ Tarea 2 Ejercicio 13*/
 
 void main()
 {
-    int arr[4];
-    int i;
-    int suma = 0;
+    int arr[4], i, suma = 0;
     
      i = 0;
 
