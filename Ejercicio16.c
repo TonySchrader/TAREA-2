@@ -8,7 +8,7 @@ void main()
     
     i = 0;
 
-    printf("Arreglo con los 100 primeros numeros pares");
+    printf("Arreglo de los primeros 100 numeros pares");
 
     for (i = 0; i < 100;i++)
     {
