@@ -8,7 +8,7 @@ void main()
     int num, cont = 0;     
     int multip = 1;  
 
-    printf("Producto de los N primeros números naturales");
+    printf("Producto de los primeros numeros naturales de N  ");
     printf("\nDame el valor de N: ");
     scanf("%d" , &num);
 
@@ -18,5 +18,5 @@ void main()
         cont++;
     }
 
-    printf("\nEl producto de los %d primeros números naturales es: %d\n", num, multip);
+    printf("\nEl producto de los %d primeros numeros naturales es: %d\n", num, multip);
 }
